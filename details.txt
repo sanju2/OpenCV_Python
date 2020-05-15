@@ -1,0 +1,11 @@
+pip install opencv-python //install it
+
+run command pront or power shell 
+
+python detect_face_image.py 
+
+or
+
+python detect_face_video.py
+
+//esc button to close it
